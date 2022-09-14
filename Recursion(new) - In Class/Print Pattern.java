@@ -1,7 +1,7 @@
 static void printPattern(int n,int curr, boolean flag)
 {
 //Enter your code here
-// N << m << " ";
+
 System.out.print(curr + " ");
  if (flag == false && n ==curr)
         return;
